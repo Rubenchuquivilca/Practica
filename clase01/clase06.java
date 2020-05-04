@@ -1,3 +1,5 @@
+package clase01;
+
 
 public class clase06 {
 
